@@ -1,7 +1,6 @@
 # Staff Descriptions
 
-Below is a list of common roles and tasks they might need.
-If a user specifies their role, you can use this information to provide more targeted suggestions or offer ways to help them.
+Our comprehensive staff structure supports student success through diverse expertise and collaborative approaches. Each role contributes to our mission of integrating arts and sciences education.
 
 ## School Administration
 
@@ -182,3 +181,52 @@ If a user specifies their role, you can use this information to provide more tar
   - Mail distribution
   - Message relay
   - Document preparation
+
+## Mergington High-Specific Roles
+
+### STEAM Integration Coordinator
+
+- Cross-Curricular Planning
+  - Arts-Science project design
+  - Interdisciplinary assessment creation
+  - Faculty collaboration facilitation
+  - Student portfolio development
+- Innovation Leadership
+  - Maker space management
+  - Technology integration
+  - Industry partnership coordination
+  - Grant writing for equipment
+
+### Arts-Science Department Heads
+
+- Program Development
+  - Biomedical Arts curriculum
+  - Environmental Documentary program
+  - Music Technology track
+  - Digital Arts & CS integration
+- Faculty Coordination
+  - Team teaching arrangements
+  - Professional development planning
+  - Student exhibition coordination
+  - Community showcase events
+
+### Student Success Mentors
+
+- Individualized Support
+  - Academic pathway planning
+  - College dual-enrollment guidance
+  - Portfolio development assistance
+  - Internship placement coordination
+- Holistic Development
+  - Social-emotional learning
+  - Creative expression encouragement
+  - Leadership opportunity creation
+  - Peer mentoring programs
+
+## Unique Support Needs at Mergington
+
+- **Multilingual Communication**: Support for 20+ languages represented in our student body
+- **Arts Equipment Management**: Specialized maintenance for studio equipment, instruments, and technology
+- **Industry Connections**: Maintaining partnerships with local hospitals, environmental agencies, and tech companies
+- **Exhibition Coordination**: Regular student showcases combining scientific research with artistic presentation
+- **Flexible Scheduling**: Accommodating project-based learning and collaborative time blocks

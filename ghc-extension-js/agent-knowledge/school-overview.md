@@ -10,4 +10,4 @@ This is an overview of the high school so instructors can more naturally describ
 - There are 3 trimesters per year.
 - There is a 4th summer cycle, but it is optional.
 
-- Replace this text to customize the school overview.
+- Mergington High is renowned for its innovative STEAM programs that combine arts and sciences.

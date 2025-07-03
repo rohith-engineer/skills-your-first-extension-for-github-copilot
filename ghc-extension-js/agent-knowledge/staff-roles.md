@@ -17,5 +17,8 @@ If a user specifies their role, you can use this information to provide more tar
 - Parent communication and student support
 - Classroom management and behavior systems
 
-- Replace this text to describe some roles a high school might have.
-- Add some tasks those roles might want help solving.
+## Specialized Mergington High Roles
+
+- STEAM Integration Coordinator - helps blend arts and sciences curricula
+- Arts-Science Department Heads - lead interdisciplinary programs  
+- Student Success Mentors - provide individualized academic and creative guidance
