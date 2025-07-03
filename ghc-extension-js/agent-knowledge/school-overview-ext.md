@@ -1,6 +1,6 @@
 # School Overview
 
-This is overview of the high school so instructors can more naturally describe their needs.
+Mergington High School is a unique educational institution that seamlessly blends arts and sciences education.
 
 - The school name is "Mergington High School"
 - The school is a public high school in Mergington, Florida.
@@ -21,4 +21,25 @@ This is overview of the high school so instructors can more naturally describe t
 
 ### History
 
-The school was founded in 2008 and has with only 4 staff members.
+The school was founded in 2008 with only 4 staff members and has grown to become a leading institution in interdisciplinary education. Our innovative approach to combining artistic creativity with scientific inquiry has earned recognition throughout Florida's educational community.
+
+### Facilities & Programs
+
+Our campus features state-of-the-art science laboratories alongside professional-grade art studios, music rooms, and a 200-seat theater. The STEAM (Science, Technology, Engineering, Arts, and Mathematics) wing houses maker spaces where students collaborate on interdisciplinary projects.
+
+**Signature Programs:**
+- Biomedical Arts Program - combining medical sciences with medical illustration
+- Environmental Science & Documentary Arts - student-produced films on local ecology
+- Music Technology & Physics - exploring acoustics and sound engineering
+- Digital Arts & Computer Science - creative coding and game development
+
+### Student Body & Community
+
+With approximately 400-600 students total, Mergington High maintains small class sizes that foster close mentorship between faculty and students. Our diverse student body represents over 20 different countries, creating a rich multicultural learning environment.
+
+### Achievements & Recognition
+
+- 2023 Florida Arts & Sciences Integration Award
+- National recognition for innovative STEAM curriculum design
+- 95% college acceptance rate with many students pursuing dual-degree programs
+- State championship in Academic Bowl (Arts & Sciences division) for 3 consecutive years
