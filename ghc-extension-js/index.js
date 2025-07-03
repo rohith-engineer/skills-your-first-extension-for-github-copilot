@@ -33,6 +33,15 @@ app.post("/copilot", express.json(), async (req, res) => {
   // Load messages array from the request payload
   const payload = req.body;
   const messages = payload.messages;
+  // Add the agent job description to copilot's messages
+const jobDescription = await fs.readFile(
+  path.join(__dirname, "agent-knowledge", "job-description.md"),
+  "utf8"
+);
+messages.unshift({
+  role: "system",
+  content: jobDescription,
+});
 
   // Add the agent job description to copilot's messages
   // const jobDescription = await fs.readFile(
@@ -90,4 +99,22 @@ app.listen(port, () => {
     ? `https://${codespaceName}-${port}.app.github.dev`
     : `http://localhost:${port}`;
   console.log(`Copilot extension service running at: ${url}`);
+});
+// Add school overview to copilot's messages
+const schoolOverview = await fs.readFile(
+  path.join(__dirname, "agent-knowledge", "school-overview.md"),
+  "utf8"
+);
+messages.unshift({
+  role: "system",
+  content: schoolOverview,
+});
+// Add staff roles to copilot's messages
+const staffRoles = await fs.readFile(
+  path.join(__dirname, "agent-knowledge", "staff-roles.md"),
+  "utf8"
+);
+messages.unshift({
+  role: "system",
+  content: staffRoles,
 });
